@@ -1,0 +1,10 @@
+Started by user [8mha:////4K74ALzh74Ge8tZg/bQGB/2kRMhD4FV9YqLOMRDFdV5mAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgZe/dLi1CL9jNTcxLySDACq0wFkwgAAAA==[0mcg jen
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/First job
+[First job] $ /bin/bash /tmp/jenkins14820649762821070722.sh
+hemanth first jenkins job
+/var/lib/jenkins/workspace/First job
+jenkins
+Enter the number to find the factorial
+the factoral of given number is 120
+Finished: SUCCESS
