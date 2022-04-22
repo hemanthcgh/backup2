@@ -16,3 +16,21 @@ Offering pipeline2 to Project Build Discarder
 Processing scripted pipeline
 Offering scripted pipeline to Project Build Discarder
 Finished at Fri Apr 22 07:40:05 UTC 2022. 54ms
+Started at Fri Apr 22 08:40:05 UTC 2022
+Processing declarative pipeline
+Offering declarative pipeline to Project Build Discarder
+Processing First job
+Offering First job to Project Build Discarder
+Processing jenkins install
+Offering jenkins install to Project Build Discarder
+Processing Maven
+Offering Maven to Project Build Discarder
+Processing maven project
+Offering maven project to Project Build Discarder
+Processing my pipeline
+Offering my pipeline to Project Build Discarder
+Processing pipeline2
+Offering pipeline2 to Project Build Discarder
+Processing scripted pipeline
+Offering scripted pipeline to Project Build Discarder
+Finished at Fri Apr 22 08:40:05 UTC 2022. 14ms
