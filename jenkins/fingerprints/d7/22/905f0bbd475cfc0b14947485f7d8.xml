@@ -3,7 +3,12 @@
   <timestamp>2022-04-20 01:31:39.976 UTC</timestamp>
   <md5sum>d722905f0bbd475cfc0b14947485f7d8</md5sum>
   <fileName>Credential id=632c9008-15f4-47cc-9014-f37307a12368 name=slave-1</fileName>
-  <usages/>
+  <usages>
+    <entry>
+      <string>maven project</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
   <facets>
     <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1087.1089.v2f1b_9a_b_040e4">
       <timestamp>1650610898003</timestamp>

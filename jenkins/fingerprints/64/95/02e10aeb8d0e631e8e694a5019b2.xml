@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-04-22 09:07:04.87 UTC</timestamp>
+  <original>
+    <name>maven project/com.efsavage:hello-world-war</name>
+    <number>1</number>
+  </original>
+  <md5sum>649502e10aeb8d0e631e8e694a5019b2</md5sum>
+  <fileName>com.efsavage:hello-world-war:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>maven project</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven project/com.efsavage:hello-world-war</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

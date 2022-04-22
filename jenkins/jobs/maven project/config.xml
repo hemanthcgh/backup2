@@ -27,6 +27,10 @@
   <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
   <triggers/>
   <concurrentBuild>false</concurrentBuild>
+  <rootModule>
+    <groupId>com.efsavage</groupId>
+    <artifactId>hello-world-war</artifactId>
+  </rootModule>
   <goals>clean install</goals>
   <aggregatorStyleBuild>true</aggregatorStyleBuild>
   <incrementalBuild>false</incrementalBuild>
