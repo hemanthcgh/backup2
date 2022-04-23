@@ -1,5 +1,10 @@
-Started at Tue Apr 19 04:30:08 UTC 2022
+Started at Sat Apr 23 11:12:47 UTC 2022
+Checking declarative pipeline
 Checking First job
 Checking jenkins install
 Checking Maven
-Finished at Tue Apr 19 04:30:08 UTC 2022. 66ms
+Checking maven project
+Checking my pipeline
+Checking pipeline2
+Checking scripted pipeline
+Finished at Sat Apr 23 11:12:47 UTC 2022. 151ms
