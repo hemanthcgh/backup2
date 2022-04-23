@@ -78,3 +78,23 @@ Offering scripted pipeline to Project Build Discarder
 Processing maven project/com.efsavage:hello-world-war
 Offering maven project/com.efsavage:hello-world-war to Project Build Discarder
 Finished at Sat Apr 23 12:51:51 UTC 2022. 12ms
+Started at Sat Apr 23 13:51:51 UTC 2022
+Processing declarative pipeline
+Offering declarative pipeline to Project Build Discarder
+Processing First job
+Offering First job to Project Build Discarder
+Processing jenkins install
+Offering jenkins install to Project Build Discarder
+Processing Maven
+Offering Maven to Project Build Discarder
+Processing maven project
+Offering maven project to Project Build Discarder
+Processing my pipeline
+Offering my pipeline to Project Build Discarder
+Processing pipeline2
+Offering pipeline2 to Project Build Discarder
+Processing scripted pipeline
+Offering scripted pipeline to Project Build Discarder
+Processing maven project/com.efsavage:hello-world-war
+Offering maven project/com.efsavage:hello-world-war to Project Build Discarder
+Finished at Sat Apr 23 13:51:51 UTC 2022. 14ms
